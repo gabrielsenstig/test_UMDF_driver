@@ -1,0 +1,6 @@
+﻿  Building 'TEST_UMDF_HLINK' with toolset 'WindowsApplicationForDrivers10.0' and the 'Universal' target platform.
+  dump.cpp
+  testapp.cpp
+  Generating Code...
+  osrusbfx2.vcxproj -> C:\Users\stig_\source\repos\Test_UMDF_Driver\exe\x64\Debug\osrusbfx2.exe
+  Driver is a Universal Driver.
